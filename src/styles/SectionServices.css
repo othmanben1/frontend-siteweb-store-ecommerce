@@ -1,0 +1,8 @@
+.section__service{
+    background-color: var(--primary-color2);
+}
+.section__service h1 {
+    color: var(--primary-color);
+    font-weight: 600;
+    
+}

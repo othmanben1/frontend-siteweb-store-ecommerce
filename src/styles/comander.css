@@ -1,0 +1,29 @@
+.persone__form .form__group {
+    border: 1px solid var(--primary-color2);
+}
+
+.comander__cart {
+    background: var( --primary-footer);
+    color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 60px;
+   
+}
+.comander__cart h6 , h4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.comander__cart h6{
+    margin-bottom: 20px;
+}
+.comander__cart h4 {
+    border-top: 1px solid var(--primary-color2);
+    padding-top: 20px;
+}
+.comander__cart .buy__btn{
+    background: #fff;
+    color: var(--primary-footer);
+    margin-left: 80px;
+}

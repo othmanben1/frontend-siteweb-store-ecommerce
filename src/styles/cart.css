@@ -1,0 +1,16 @@
+.table tr td img {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+}
+td i {
+    cursor: pointer;
+}
+td th {
+    color: var(--primary-color);
+}
+.buy__btn a {
+    text-decoration: none;
+    color: var(--primary-color2);
+    font-weight: 600;
+}
